@@ -1,0 +1,12 @@
+# dependencias
+node_modules/
+
+# builds
+dist/
+.next/
+
+# variables de entorno
+.env
+
+# otros
+.DS_Store
